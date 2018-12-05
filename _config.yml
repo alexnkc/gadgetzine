@@ -1,3 +1,7 @@
-name: Gadgetzine
+# Setup
+title:               玩物·誌 Gadgetzine
+tagline:             像螞蟻一樣工作，以科技帶來娛樂
+analytics_id:
 markdown: kramdown
 permalink: /:year/:month/:title
+name: Gadgetzine
