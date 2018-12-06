@@ -18,7 +18,7 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
 }
 nav {
-    text-align: center;
+    align: center;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
