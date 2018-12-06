@@ -4,7 +4,7 @@
 .header {
   height: 140px;
   border-bottom: 1px solid #e6e6e6;
-  text-align: center;
+  float: center;
   padding-top: 24px;
   font-family: 'Noto Sans TC', 'Sans-Serif';
 }
@@ -18,7 +18,7 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
 }
 nav {
-    align: center;
+    
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
