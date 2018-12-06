@@ -4,7 +4,7 @@
 .header {
   height: 140px;
   border-bottom: 1px solid #e6e6e6;
-  float: center;
+  align: center;
   padding-top: 24px;
   font-family: 'Noto Sans TC', 'Sans-Serif';
 }
