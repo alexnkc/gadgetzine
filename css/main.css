@@ -1,3 +1,17 @@
+/* --- Universal element ---*/
+
+/* --- Primary site style ---*/
+.header {
+  height: 140px;
+  border-bottom: 1px solid #e6e6e6;
+  text-align: center;
+  padding-top: 24px;
+}
+.header h1 {
+  font-family: Georgia, serif;
+  font-size: 2rem;
+  color: #141414;
+}
 body {
     margin: 60px auto;
     width: 70%;
