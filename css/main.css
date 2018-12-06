@@ -17,12 +17,14 @@ body {
     width: 70%;
     font-family: 'Noto Sans TC', sans-serif;
 }
+nav {
+    align: center;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    align: center;
 }
 nav ul li, footer ul li {
     display: inline;
