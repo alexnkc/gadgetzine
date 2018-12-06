@@ -2,5 +2,13 @@
   <h1>
     <a href="{{ site.url }}" title="首頁">{{ site.title }}</a>
   </h1>
-  {% include navigation.html %}
+  <nav>
+    <ul>
+      {% for item in site.data.navigation %}
+      <li>
+      <a href="{{ item.link }}" {% if item.link == page.url %} class="active" {% endif %}>{{ item.name }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+</nav>
 </header>
